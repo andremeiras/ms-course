@@ -6,5 +6,8 @@ The application contains some repositories that communicate between them.
 
 - hr-work: manage a Worker
 - hr-payment: manage how much the Worker will receive
+- hr-api-gateway-zuul
+- hr-eureka-server
+- hr-config-server
 
 The applications will communicate with each other.
